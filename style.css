@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #2753ac;
+  width: 100%;
+  height: 100vh;
+  margin: auto;
+}
+.first-heading {
+  color: white;
+  text-align: center;
+  font-size: 5px;
+}
+.first-paragragh {
+  color: white;
+  text-align: center;
+  font-size: 3px;
+}
+.main-section {
+  background-color: #3878f3;
+  width: 30%;
+  height: 80vh;
+  margin-left: 35%;
+}
+.sub-secttion {
+  background-color: #fb7f42;
+  width: 60px;
+  height: 30px;
+  margin-left: 36px;
+}
+.second-heading {
+  color: white;
+  font-size: 2px;
+  text-align: left, down;
+}
+.second-paragraph {
+  color: white;
+  font-size: 2px;
+  text-align: right;
+}
+.insta {
+  width: 2px;
+  height: 2px;
+}
+.face {
+  width: 2px;
+  height: 2px;
+}
+.twit {
+  width: 2px;
+  height: 2px;
+}
+.whats {
+  width: 2px;
+  height: 2px;
+}
+.image {
+  text-align: right;
+  margin-bottom: 0px;
+}
+.picture {
+  background-image: url("https://img.freepik.com/free-vector/coloured-background-design_1172-561.jpg?ga=GA1.1.1258281974.1729664009&semt=ais_hybrid");
+  width: 50%;
+  height: 50px;
+  margin: 5%;
+  margin-bottom: 30%;
+  text-align: center;
+}
+.guitor {
+  width: 50%;
+  height: 50px;
+  margin-left: 30%;
+}
+.fourth-section {
+  background-color: #70c397;
+  width: 70px;
+  height: 15px;
+  /* text-align: left; */
+  margin: 20%;
+  margin-bottom: 90%;
+  margin-top: 20%;
+  text-align: centre;
+  padding-bottom: 10px;
+}
+.sec-heading {
+  color: white;
+  font-size: 4px;
+}
+.sec-paragraph {
+  color: white;
+  font-size: 2px;
+}
+.third-heading {
+  color: white;
+  font-size: 3px;
+}
+.third-paragraph {
+  color: white;
+  font-size: 1px;
+}
+.last {
+  color: black;
+  font-size: 3px;
+  background-color: #ffcb3a;
+  width: 70px;
+  height: 15px;
+  margin: 80%;
+}
+.good {
+  text-align: left;
+}
+.best {
+  text-align: right;
+}
